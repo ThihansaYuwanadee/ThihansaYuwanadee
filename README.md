@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thihansa Yuwanadee</h1>
 
-<h4 align="center"> I’m Thihansa Yuwanadee, an ICT undergraduate at General Sir John Kotelawala Defence University (KDU), passionate about Software Quality Assurance. I’m focused on building strong testing skills and aiming to start my career as a QA Engineer. </h4>
+<h3 align="center"> I’m Thihansa Yuwanadee, an ICT undergraduate at General Sir John Kotelawala Defence University (KDU), passionate about Software Quality Assurance. I’m focused on building strong testing skills and aiming to start my career as a QA Engineer. </h3>
 
 <br/>
 
