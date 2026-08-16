@@ -17,7 +17,7 @@ I'm focused on building practical software solutions, strengthening my programmi
 
 
 ## 💫 About Me:
-
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 - 💻 Currently working as a Software Developer Intern, gaining hands-on experience in real-world software development.  
 - 🎓 Pursuing a Bachelor of Technology (Hons) in Information & Communication Technology at General Sir John Kotelawala Defence University (KDU).
@@ -27,10 +27,10 @@ I'm focused on building practical software solutions, strengthening my programmi
 - 💬 Ask me about Software Development, Web Development, Mobile Development, Git/GitHub, and Software Testing.
 
 - 📫 How to reach me **thihansayuwanadee25@gmail.com**
-
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-## 💻 My Tech Stack:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> My Tech Stack:
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming Languages:</td>
